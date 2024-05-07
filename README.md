@@ -1,4 +1,4 @@
-<h1 style="color:29F1E2;">HERE DHANUSH!!</h1>
+<h1 align=center">HERE DHANUSH!!</h1>
 ## 💫 About Me
 💻Persuing B.Tech in Information Technology<br>🔭Emerging Frontend Developer<br>🤞I like to Drive and Explore New Things<br>
 
